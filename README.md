@@ -1,5 +1,5 @@
 # VILE
-send messages anonymously
+send messages anonymously using proxychains
 
  ***
 ## <p align="center">Installation
